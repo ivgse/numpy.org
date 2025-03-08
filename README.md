@@ -1,5 +1,5 @@
 # Numpy.org
-
+¡Que te sea más leve cada vez! Este es mi primera edición
 ## Getting Started
 
 To contribute to the website, you'll first need to install the *extended
